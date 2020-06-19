@@ -8,5 +8,5 @@ colorPicker2.addEventListener(`input`, changeColor)
 colorPicker3.addEventListener(`input`, changeColor)
 
 function changeColor() {
-  box.style.background = `linear-gradient(${colorPicker1.value}, ${colorPicker2.value}, ${colorPicker3.value})`
+  box.style.backgroundImage = `linear-gradient(${colorPicker1.value}, ${colorPicker2.value}, ${colorPicker3.value})`
 }
