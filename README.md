@@ -1,4 +1,4 @@
-# coloar-maker
+# color-blender
 
 Color blender web app written in HTML, CSS, and JavaScript.
 

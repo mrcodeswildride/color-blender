@@ -16,6 +16,11 @@ body {
   margin-right: 30px;
 }
 
+button {
+  padding: 5px;
+}
+
+#patrioticButton,
 #colorPicker1,
 #colorPicker2 {
   margin-right: 5px;
